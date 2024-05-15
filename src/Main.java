@@ -52,7 +52,6 @@ public class Main {
         System.out.println("3. Butun Telebeleri gor");
         System.out.println("4. ClassId-ye gore sinifdeki telebeleri gor.");
         System.out.println("5. Mektebe sinif elave et.");
-        System.out.println("6. Sinife telebe elave et.");
     }
 
     public static void getAllClassroom() {
